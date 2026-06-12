@@ -20,7 +20,7 @@ RESTful API powering the asset management platform. Handles authentication, asse
 
 ### HCMGO — Human Capital Management
 Full-featured HCM platform for managing employee lifecycle, recruitment, project staffing, and approval workflows. Built for TDP Indonesia.
-- **Stack:** Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query + Table, Zustand, NextAuth v4, React Hook Form + Zod, Laravel 11, PHP 8.2, MySQL, JWT Auth, Spatie Permission, Docker, Playwright
+- **Stack:** Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Laravel 11, PHP 8.2, MySQL, JWT Auth, Docker
 - **Role:** Full-stack developer — FE (2-person team)
 
 ### GKI Harja (Rest API + Dashboard)
