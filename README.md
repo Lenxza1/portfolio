@@ -20,11 +20,23 @@ RESTful API powering the asset management platform. Handles authentication, asse
 - **Role:** Backend API development
 - *(Repo: private fork — ga-asset-backend)*
 
-### [Your Project Name] — *Add description*
-<!-- Copy this block for each professional project -->
-- **Stack:** 
+### HCMGO
+<!-- Add description -->
+- **Stack:**
 - **Role:**
-- **What I did:**
+- **Repo:** *(private)*
+
+### GKI Harja (Rest API + Dashboard)
+Church management system — REST API + admin dashboard.
+- **Stack:** TypeScript, JavaScript, CSS
+- **Role:**
+- **Repo:** [GKI-Harja-rest-api](https://github.com/Lenxza1/GKI-Harja-rest-api) · [gki-harja-dashboard](https://github.com/Lenxza1/gki-harja-dashboard)
+
+### Compro Jagadwira (Company Profile)
+Corporate website built with React/TypeScript.
+- **Stack:** TypeScript, CSS
+- **Role:**
+- **Repo:** [Compro-Jagadwira](https://github.com/Lenxza1/Compro-Jagadwira)
 
 ---
 
@@ -62,11 +74,6 @@ Python-based chatbot implementation.
 
 ## 🏫 Academic / Course Projects
 
-### Compro Jagadwira (Company Profile)
-Corporate website built with React/TypeScript.
-- **Stack:** TypeScript, CSS
-- **Repo:** [Compro-Jagadwira](https://github.com/Lenxza1/Compro-Jagadwira)
-
 ### School Payment System
 Full-featured school payment management system.
 - **Stack:** PHP, Java, HTML, CSS, SCSS, JavaScript
@@ -81,11 +88,6 @@ Clinic management mobile app.
 Dart/Flutter mobile app.
 - **Stack:** Flutter, Dart, Swift, Kotlin
 - **Repo:** *(private)*
-
-### GKI Harja (Rest API + Dashboard)
-Church management system — REST API + admin dashboard.
-- **Stack:** TypeScript, JavaScript, CSS
-- **Repo:** [GKI-Harja-rest-api](https://github.com/Lenxza1/GKI-Harja-rest-api) · [gki-harja-dashboard](https://github.com/Lenxza1/gki-harja-dashboard)
 
 ### Kawalaku Rest API
 TypeScript-based REST API.
